@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">ShareFoodCo</string>
     <string name="title_home">Home</string>
     <string name="title_marche">Marché</string>
     <string name="title_conversations">Conversations</string>
