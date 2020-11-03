@@ -3,4 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_marche">Marché</string>
     <string name="title_conversations">Conversations</string>
+    <string name="title_offres">Offres</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
