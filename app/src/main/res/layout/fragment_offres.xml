@@ -22,19 +22,20 @@
         android:layout_height="673dp"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="1dp">
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
 
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="match_parent"
             android:layout_height="135dp"
-            app:srcCompat="@drawable/Offres" />
+            app:srcCompat="@drawable/offres" />
 
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="match_parent"
             android:layout_height="231dp"
-            app:srcCompat="@drawable/Offre1" />
+            app:srcCompat="@drawable/offre1" />
 
         <TextView
             android:id="@+id/textView3"
@@ -46,7 +47,7 @@
             android:id="@+id/imageView6"
             android:layout_width="match_parent"
             android:layout_height="233dp"
-            app:srcCompat="@drawable/Offre2" />
+            app:srcCompat="@drawable/offre2" />
 
         <TextView
             android:id="@+id/textView4"

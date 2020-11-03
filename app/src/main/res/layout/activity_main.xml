@@ -45,19 +45,19 @@
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            app:srcCompat="@drawable/Offres" />
+            app:srcCompat="@drawable/offres" />
 
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            app:srcCompat="@drawable/Actus" />
+            app:srcCompat="@drawable/actus" />
 
         <ImageView
             android:id="@+id/imageView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/Annonces" />
+            app:srcCompat="@drawable/annonces" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
