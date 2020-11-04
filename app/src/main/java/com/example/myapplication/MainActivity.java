@@ -1,7 +1,8 @@
-package com.example.text;
+package com.example.myapplication;
 
 import android.os.Bundle;
 
+import com.example.text.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
